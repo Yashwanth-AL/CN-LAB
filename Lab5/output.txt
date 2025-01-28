@@ -1,0 +1,24 @@
+$ javac Server.java Client.java
+
+$ java Server
+Server is waiting for client...
+
+//open another terminal
+$ java Client
+
+Enter Filename: sample.txt
+This is a sample text used for testing the socket program which uses TCP protocol.
+
+// In server terminal
+Server is waiting for client...
+Client connected. Waiting for filename...
+Closing connection...
+
+
+
+
+
+
+
+
+
