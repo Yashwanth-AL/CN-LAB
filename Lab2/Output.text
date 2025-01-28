@@ -1,0 +1,27 @@
+$ java Main
+
+
+Enter the number of frames: 
+5
+Enter the frame details:
+
+Enter frame number: 2
+Enter frame content: puneeth
+
+Enter frame number: 1
+Enter frame content: yashwanth
+
+Enter frame number: 4
+Enter frame content: ritesh
+
+Enter frame number: 3 
+Enter frame content: shambu
+
+Enter frame number: 5
+Enter frame content: Anirudh
+
+Before Sorting (Shuffled frames):
+ritesh Anirudh puneeth yashwanth shambu
+
+After Sorting the frames:
+yashwanth puneeth shambu ritesh Anirudh
