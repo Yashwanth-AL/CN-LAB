@@ -1,0 +1,18 @@
+$ java Server
+Waiting for messages...
+
+// now in another terminal run client program
+
+Received: yashwanth
+Received: shambu
+Received: bhuvan
+Received: aniruddh
+Received: exit
+
+$ java Client
+Enter messages to send (type 'exit' to stop):
+yashwanth
+shambu
+bhuvan
+aniruddh
+exit
