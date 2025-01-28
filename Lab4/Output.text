@@ -1,0 +1,27 @@
+1. Sample output 
+
+Enter the number of vertices: 4
+Enter the weight matrix of the graph :
+0 4 0 5 
+0 0 0 5
+0 -10 0 0 
+0 0 3 0
+Enter the source vertex: 0
+Negative weight cycle detected.
+
+
+2. Sample output 
+
+Enter the number of vertices: 4
+Enter the weight matrix of the graph :
+0 1 4 0
+0 0 2 5
+0 0 0 3
+0 0 0 0
+Enter the source vertex: 0
+
+Vertex   Distance from Source
+0                0
+1                1
+2                3
+3                6
