@@ -1,0 +1,20 @@
+$ java Main
+
+At Sender Side:
+Enter message bits: 100100
+Enter generator: 1101
+Transmitted codeword: 100100001
+
+At Receiver Side:
+Enter received codeword: 100100001
+Data stream is valid (No CRC error).
+
+$ java Main
+At Sender Side:
+Enter message bits: 100100001
+Enter generator: 1101
+Transmitted codeword: 100100001000
+
+At Receiver Side:
+Enter received codeword: 100100001001
+Data stream is invalid. CRC error detected.
