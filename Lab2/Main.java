@@ -1,5 +1,3 @@
-package Lab2; //optional statement
-
 import java.util.*;
 
 class Main {
