@@ -1,0 +1,12 @@
+$ java Token
+
+Enter the bucket capacity: 5
+Enter the token generation rate: 2
+Enter the number of cycles: 6
+Time_t     Tokens Requested   Tokens Sent     Tokens Remaining    
+1          2                  2               2                   
+2          2                  2               4
+3          2                  1               5
+4          2                  0               5
+5          2                  0               5                   
+6          2                  0               5
